@@ -35,6 +35,7 @@ const login = () => {
   height: 100vh;
   background-color: rgb(21, 21, 26);
 }
+
 .title {
   position: absolute;
   top: 12vh;
@@ -43,12 +44,14 @@ const login = () => {
   font-size: 4vw;
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
 }
+
 .wrong {
   position: absolute;
   top: 45vh;
   left: 42vw;
   background: none;
 }
+
 .login {
   position: absolute;
   top: 31vh;
@@ -60,6 +63,7 @@ const login = () => {
   cursor: pointer;
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
 }
+
 .username {
   position: absolute;
   height: 6vh;
@@ -70,6 +74,7 @@ const login = () => {
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   border: none;
 }
+
 .password {
   position: absolute;
   height: 6vh;

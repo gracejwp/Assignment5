@@ -47,6 +47,7 @@ console.log(store.movies);
   background-color: rgb(21, 21, 26);
   width: 100vw;
 }
+
 .parent {
   display: grid;
   grid-template-columns: repeat(5, 1fr);
@@ -55,13 +56,16 @@ console.log(store.movies);
   width: 100%;
   background-color: rgb(21, 21, 26);
 }
+
 .title {
   background: none;
   height: 10vh;
 }
+
 .posters {
   height: 50vh;
 }
+
 .cart {
   position: absolute;
   top: 2vh;

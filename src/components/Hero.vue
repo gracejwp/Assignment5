@@ -19,6 +19,7 @@
   width: 100vw;
   height: 60vh;
 }
+
 .text {
   position: absolute;
   top: 13%;
@@ -28,11 +29,13 @@
   color: aliceblue;
   background: none;
 }
+
 .theater {
   position: absolute;
   height: 60vh;
   width: 100vw;
 }
+
 .overlay {
   position: absolute;
   background-color: rgba(0, 0, 0, 0.553);

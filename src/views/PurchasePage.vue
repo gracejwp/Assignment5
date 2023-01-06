@@ -21,23 +21,28 @@ console.log(store.shoppingCart);
   background-color: rgb(21, 21, 26);
   width: 100vw;
 }
+
 .background {
   background-color: rgb(21, 21, 26);
   height: 100vh;
   width: 100vw;
 }
+
 .header {
   background: none;
   height: 7vh;
 }
+
 .cart-content {
   position: relative;
   width: 100vw;
   background-color: rgb(21, 21, 26);
 }
+
 .posters {
   height: 20vh;
 }
+
 .title {
   position: absolute;
   background: none;
@@ -46,6 +51,7 @@ console.log(store.shoppingCart);
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   font-size: 25px;
 }
+
 .remove {
   position: absolute;
   background: rgb(48, 58, 125);

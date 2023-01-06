@@ -6,20 +6,20 @@ import PurchasePage from "../views/PurchasePage.vue";
 
 const routes = [
   {
-    path: '/',
-    component: HomePage
+    path: "/",
+    component: HomePage,
   },
   {
-    path: '/login',
-    component: LoginPage
+    path: "/login",
+    component: LoginPage,
   },
   {
-    path: '/movies',
-    component: MoviesPage
+    path: "/movies",
+    component: MoviesPage,
   },
   {
-    path: '/purchase',
-    component: PurchasePage
+    path: "/purchase",
+    component: PurchasePage,
   },
 ];
 

@@ -17,12 +17,14 @@
   height: 20vh;
   background-color: rgb(21, 21, 26);
 }
+
 .company {
   position: absolute;
   top: 3vh;
   right: 5vw;
   background-color: rgb(21, 21, 26);
 }
+
 p {
   background: none;
   color: azure;

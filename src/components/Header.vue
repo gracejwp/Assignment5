@@ -16,6 +16,7 @@
   color: rgb(255, 255, 255);
   background-color: rgb(21, 21, 26);
 }
+
 .security {
   position: absolute;
   left: 88vw;
@@ -27,6 +28,7 @@
   background-color: rgb(44, 42, 48);
   cursor: pointer;
 }
+
 p {
   position: absolute;
   top: 2vh;

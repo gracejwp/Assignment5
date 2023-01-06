@@ -63,12 +63,14 @@ console.log(movies);
   background: #00000099;
   z-index: 3;
 }
+
 .modal-outer-container .modal-inner-container {
   background-color: #1f2123;
   width: clamp(280px, 100%, 800px);
   height: 400px;
   position: relative;
 }
+
 .modal-outer-container .modal-inner-container .close-button {
   position: absolute;
   right: 0px;
@@ -79,12 +81,14 @@ console.log(movies);
   font-size: 1.25rem;
   color: white;
 }
+
 .poster {
   position: absolute;
   left: 60%;
   top: 10px;
   height: 380px;
 }
+
 .descBox {
   position: absolute;
   width: 400px;
@@ -93,6 +97,7 @@ console.log(movies);
   left: 3%;
   background: #1f2123;
 }
+
 .title {
   position: relative;
   left: 2%;
@@ -101,6 +106,7 @@ console.log(movies);
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans",
     Arial, sans-serif;
 }
+
 .release {
   position: relative;
   left: 3%;
@@ -110,6 +116,7 @@ console.log(movies);
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans",
     Arial, sans-serif;
 }
+
 .overview {
   position: relative;
   top: 30px;
@@ -119,6 +126,7 @@ console.log(movies);
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans",
     Arial, sans-serif;
 }
+
 .purchase {
   position: absolute;
   top: 80%;
