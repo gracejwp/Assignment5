@@ -25,7 +25,6 @@ const addItem = () => {
   });
 };
 await getMovie();
-console.log(movies);
 </script>
 
 <template>

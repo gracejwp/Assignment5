@@ -17,7 +17,6 @@ const closeModal = () => {
 };
 
 await store.getMovies();
-console.log(store.movies);
 </script>
 <template>
   <div class="movies-container">

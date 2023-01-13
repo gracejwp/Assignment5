@@ -2,7 +2,6 @@
 import { useStore } from "../store/index";
 
 const store = useStore();
-console.log(store.shoppingCart);
 </script>
 <template>
   <div class="purchase-container">
